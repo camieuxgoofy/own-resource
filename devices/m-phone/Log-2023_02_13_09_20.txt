@@ -1,0 +1,39 @@
+### Device Information ###
+Brand: Lenovo
+Model: Lenovo L38041
+Android SDK: 27
+RAM: 3.63 GB
+Free Space: 2.98 GB
+##########################
+--------- beginning of main
+[ 02-13 21:20:27.339  7198: 7198 I/LoadedApk ]
+No resource references to update in package zui.platform
+
+[ 02-13 21:20:27.370  7198: 7198 W/Typeface ]
+setThemeFont(): FontPath Not Changed!
+
+[ 02-13 21:20:27.664  7198: 7222 D/OpenGLRenderer ]
+HWUI GL Pipeline
+
+[ 02-13 21:20:27.863  7198: 7222 I/Adreno   ]
+QUALCOMM build                   : dcd4b96, I568c71768a
+Build Date                       : 04/30/18
+OpenGL ES Shader Compiler Version: EV031.22.00.01_06
+Local Branch                     : 
+Remote Branch                    : quic/gfx-adreno.lnx.1.0.r33-rel
+Remote Branch                    : NONE
+Reconstruct Branch               : NOTHING
+
+
+[ 02-13 21:20:27.884  7198: 7222 I/Adreno   ]
+PFP: 0x005ff087, ME: 0x005ff063
+
+[ 02-13 21:20:27.888  7198: 7222 I/zygote64 ]
+android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+
+[ 02-13 21:20:27.889  7198: 7222 I/OpenGLRenderer ]
+Initialized EGL, version 1.4
+
+[ 02-13 21:20:27.889  7198: 7222 D/OpenGLRenderer ]
+Swap behavior 2
+
